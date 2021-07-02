@@ -7,7 +7,8 @@ the book contents to myself. I've taken inspiration from various sources for sel
 
 ## Links you want to look at first 
 
-[Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 
 
 List
