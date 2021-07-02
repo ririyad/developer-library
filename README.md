@@ -16,12 +16,12 @@ List
 
 ### Computer Science
 
-|Ttitle|Writer|Goodreads Rating|Amazon Rating|
-|------|------|---------------|-------------|
-|||||
+|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status|Review| 
+|------|------|---------------|-------------|----------------|------|
+|||||||
 
 ### Open Source Culture
 
-|Title|Writer| Goodreads Rating | Amazon Rating
-|-----|------|---------------|----------------|
-|Forge Your Future with Open Source|Vikcy Brasseur|||
+|Title|Writer|Goodreads Rating | Amazon Rating | Reading Status| Review |
+|-----|------|---------------|----------------|-----------------|-------|
+|Forge Your Future with Open Source|Vikcy Brasseur|||||
