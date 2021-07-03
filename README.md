@@ -16,18 +16,18 @@ List
 
 ### Computer Science
 
-|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status| Notable Reading| Review|
+|Ttitle|Author|Goodreads Rating|Amazon Rating| Reading Status| Notable Reading| Review|
 |------|------|---------------|-------------|----------------|------|----------------|
 ||||||||
 
 ### Software Development
 
-|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status|Notable Reading|Review| 
+|Ttitle|Author|Goodreads Rating|Amazon Rating| Reading Status|Notable Reading|Review| 
 |------|------|---------------|-------------|----------------|------|-------------|
 |[Data Oriented Design](https://dataorienteddesign.com/dodbook/)|Richard Fabian||||`relational database` `normalization`||
 
 ### Open Source Culture
 
-|Title|Writer|Goodreads Rating | Amazon Rating | Reading Status| Review |
+|Title|Author|Goodreads Rating | Amazon Rating | Reading Status| Review |
 |-----|------|---------------|----------------|-----------------|-------|
 |Forge Your Future with Open Source|Vikcy Brasseur|||||
