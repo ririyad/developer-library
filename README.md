@@ -16,9 +16,15 @@ List
 
 ### Computer Science
 
-|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status|Review| 
-|------|------|---------------|-------------|----------------|------|
-|||||||
+|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status| Notable Reading| Review|
+|------|------|---------------|-------------|----------------|------|----------------|
+||||||||
+
+### Software Development
+
+|Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status|Notable Reading|Review| 
+|------|------|---------------|-------------|----------------|------|-------------|
+|[Data Oriented Design|Richard Fabian](https://dataorienteddesign.com/dodbook/)||||`relational database` `normalization`||
 
 ### Open Source Culture
 
