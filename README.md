@@ -24,7 +24,7 @@ List
 
 |Ttitle|Writer|Goodreads Rating|Amazon Rating| Reading Status|Notable Reading|Review| 
 |------|------|---------------|-------------|----------------|------|-------------|
-|[Data Oriented Design|Richard Fabian](https://dataorienteddesign.com/dodbook/)||||`relational database` `normalization`||
+|[Data Oriented Design(https://dataorienteddesign.com/dodbook/)]|Richard Fabian||||`relational database` `normalization`||
 
 ### Open Source Culture
 
